@@ -1,6 +1,6 @@
 import React from 'react';
 import { HiArrowNarrowRight } from 'react-icons/hi';
-import me from '../images/me.JPG';
+import me from '../images/me.jpg';
 import { Link } from "react-scroll"; 
 
 const Home = () => {
@@ -15,10 +15,7 @@ const Home = () => {
           I'm a Full Stack Web Developer
         </h2>
         <p className="text-gray-500 py-4 max-w-md">
-        I am a passionate full-stack web developer, with a primary focus and strong passion 
-        for frontend development. I have recently entered this dynamic field, 
-        and the joy I find in creating captivating and intuitive user interfaces drives my 
-        enthusiasm to continually advance in this exciting journey.
+        I am an enthusiastic full-stack web developer, with a primary emphasis and deep love for frontend development. I've recently entered this ever-evolving field, and the delight I experience in crafting engaging and user-friendly interfaces fuels my motivation to continuously progress on this exciting path.
         </p>
         <div>
           <Link
